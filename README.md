@@ -1,50 +1,51 @@
-# Welcome to your Expo app 👋
+# Lab 5 : Afficher un grand catalogue avec FlatList (TechMarket App)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Description :
 
-## Get started
+Application React Native pour afficher un catalogue de produits high-tech.
 
-1. Install dependencies
+## Installation
 
-   ```bash
-   npm install
-   ```
+# 1. Installer les dépendances
+npm install
 
-2. Start the app
+# 2. Démarrer l'app
+npx expo start
 
-   ```bash
-   npx expo start
-   ```
+## Fonctionnalités
 
-In the output, you'll find options to open the app in a
+📋 Liste de produits avec FlatList
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🏷️ Affichage des catégories
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+💰 Produits > 500€ en surbrillance
 
-## Get a fresh project
+📱 Interface responsive
 
-When you're ready, run:
+🎨 Design moderne
 
-```bash
-npm run reset-project
-```
+## Technologies
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+React Native
 
-## Learn more
+Expo
 
-To learn more about developing your project with Expo, look at the following resources:
+JavaScript/TypeScript
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Démonstration 
 
-## Join the community
+![Capture d’écran_6-1-2026_113150_localhost](https://github.com/user-attachments/assets/94609ec8-117a-4352-b9b9-defa9e24e4d2)
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Capture d’écran_6-1-2026_11333_localhost](https://github.com/user-attachments/assets/83e7caa1-ec99-48e2-abfa-65395d8e8533)
+
+<img width="1914" height="891" alt="Lab5 5" src="https://github.com/user-attachments/assets/5723958d-782a-4e5b-bac6-b282c872cf6e" />
+
+
+# Auteurs 
+
+Réalisé par : Ettouyjer Yasmine.
+
+Encadré par : Pr.Mohammed Lechgar.
+
+Date : Le 06/01/2026.
